@@ -1,0 +1,15 @@
+# Virtual Environment
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Heavy AI weights & caches
+.cache/
+models/
+*.ckpt
+*.safetensors
+*.bin
+
+# Generated outputs
+generated_candidates/
