@@ -324,7 +324,7 @@ The implementation includes memory-management optimizations intended to make loc
 
 🔧 Installation
 1. Clone the Repository
-git clone <YOUR_REPOSITORY_URL>
+git clone <https://github.com/prashant-00-22/ForensiFace-AI-Assisted-Craniofacial-Approximation-System.git>
 cd ForensiFace-AI-Assisted-Craniofacial-Approximation-System
 2. Create a Virtual Environment
 Windows
